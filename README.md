@@ -1,16 +1,10 @@
-# neurolab-flask
+# Fire Detection using Yolov5
 
-![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png)
+![image](https://www.google.com/search?q=fire+in+forest&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjwivz3y5D_AhWOgv0HHUq9AkIQ_AUoAXoECAMQAw&biw=1536&bih=746&dpr=1.25#imgrc=viaPFbiTsS85jM)
 
 
 To run flask application 
 
 ```
 python app.py
-```
-
-
-To access your flask application open new tab in and paste the url:
-```
-https://{your_url}.ineuron.app:5000/
 ```
