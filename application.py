@@ -16,14 +16,7 @@ application = Flask(__name__)
 app = application
 CORS(app)
 
-@app.route("/")
-def hello_world():
-    return render_template('index.html')
-
 UPLOAD_FOLDER = 'static'
-
-application = Flask(__name__)
-app = application
 
 app.secret_key = "secret key"
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
